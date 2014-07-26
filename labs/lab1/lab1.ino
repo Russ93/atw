@@ -5,7 +5,7 @@
   This example code is in the public domain.
  */
  
-int ports [5] = {3,5,6,9,10};   // the pin that the LED is attached to
+int ports [5] = {3,4,5,6,7};   // the pin that the LED is attached to
 int adder = 1;
 int inc = 0;
 
@@ -46,3 +46,4 @@ void loop() {
   }
   
 }
+

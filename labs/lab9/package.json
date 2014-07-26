@@ -1,0 +1,18 @@
+{
+	"name": "cuppajoe2",
+	"version": "0.0.1",
+	"authors": [
+		{
+			"name": "admin",
+			"email": "russ93@fullsail.edu"
+		}
+	],
+	"dependencies": {
+		"async": "0.2.9",
+		"cookie": "*",
+		"express": "3.4.7",
+		"node-twitter-api": "*",
+		"request": "*",
+		"oauth": "*"
+	}
+}
